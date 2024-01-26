@@ -6,7 +6,7 @@ To put it simply, everyone provides VIP or SVIP accounts on different platforms,
 # Requirement
 We do NOT welcome individuals and organizations (especially **"Marketing Accounts"**) who are freeloaders and publicize this project!
 
-If you do not have a VIP or SVIP account, you can also choose to pay to purchase one or bear part of the server cost (approximately ***USD $1.12 ≈ CNY ￥8*** per month).
+If you do not have a VIP or SVIP account, you can also choose to pay to purchase one or bear part of the server cost (approximately ***USD $1.25 ≈ CNY ￥9*** per month).
 
 For those users who already have relevant accounts, all you have to do is share your account for everyone to use.
 
