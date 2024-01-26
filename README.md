@@ -4,7 +4,7 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # Requirement
-We do NOT welcome individuals and organizations (especially **"Marketing Accounts"**) who engage in free prostitution and publicize this project!
+We do NOT welcome individuals and organizations (especially **"Marketing Accounts"**) who are freeloaders and publicize this project!
 
 If you do not have a VIP or SVIP account, you can also choose to pay to purchase one or bear part of the server cost (approximately ***USD $0.55 ≈ CNY ￥4*** per month).
 
