@@ -3,6 +3,12 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
+# CHANGELOG
+## Feb 29th, 2024
+We have successfully deployed trial music sources on servers in the Netherlands, Poland and the United States. Welcome to join our Telegram group to experience it!
+## Feb 14th, 2024
+We have successfully deployed trial music sources on servers in the Poland and the United States. Welcome to join our Telegram group to experience it!
+
 # Requirement
 We do NOT welcome individuals and organizations (especially **"Marketing Accounts"**) who are freeloaders and publicize this project!
 
@@ -12,8 +18,8 @@ For those users who already have relevant accounts, all you have to do is share 
 
 # Links
 These will be the only two communication platforms for the time being.
-- Discord (Mainly used) : [https://discord.com/invite/THEh33Gc](https://discord.com/invite/THEh33Gc)
-- Telegram : [https://t.me/+WQztNFXI2i8wMTRl](https://t.me/+WQztNFXI2i8wMTRl).
+- Discord (Discarded): [https://discord.com/invite/THEh33Gc](https://discord.com/invite/THEh33Gc)
+- Telegram (Mainly used): [https://t.me/+WQztNFXI2i8wMTRl](https://t.me/+WQztNFXI2i8wMTRl).
 
 # **DISCLAIMER**
 Due to the sensitive nature of the project, it may be stopped at any time, so please be sure not to promote it too much! For specific matters, please refer to the announcement in the Discord server.
