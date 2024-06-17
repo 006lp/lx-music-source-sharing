@@ -4,6 +4,8 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # CHANGELOG
+## Jun 18th, 2024
+Great! After more than 3 months of maintenance suspension, we are reborn and usher in the new 1.0.1 version, but we only support IPV6 and the server is still located in Seoul, South Korea.
 ## Jun 17th, 2024
 Update license to Apache License 2.0 and add attribution and responsibility notice.To avoid unnecessary trouble, **service is no longer available in Mainland China**.
 ## Feb 29th, 2024
