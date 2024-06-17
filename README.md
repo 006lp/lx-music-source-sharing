@@ -21,7 +21,9 @@ For those users who already have relevant accounts, all you have to do is share 
 # Links
 ### Thanks to
 [lx-music-api-server](https://github.com/MeoProject/lx-music-api-server)-[MeoProject](https://github.com/MeoProject)
+
 [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)-[lyswhut](https://github.com/lyswhut)
+
 [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)-[lyswhut](https://github.com/lyswhut)
 
 ### This is the only communication platforms for the time being.
