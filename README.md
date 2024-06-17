@@ -19,7 +19,12 @@ If you do not have a VIP or SVIP account, you can also choose to pay to purchase
 For those users who already have relevant accounts, all you have to do is share your account for everyone to use.
 
 # Links
-These will be the only two communication platforms for the time being.
+### Thanks to
+[lx-music-api-server](https://github.com/MeoProject/lx-music-api-server)-[MeoProject](https://github.com/MeoProject)
+[lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)-[lyswhut](https://github.com/lyswhut)
+[lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)-[lyswhut](https://github.com/lyswhut)
+
+### This is the only communication platforms for the time being.
 - Telegram (Mainly used): [https://t.me/+WQztNFXI2i8wMTRl](https://t.me/+WQztNFXI2i8wMTRl).
 
 # **DISCLAIMER**
