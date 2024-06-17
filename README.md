@@ -4,6 +4,8 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # CHANGELOG
+## Jun 17th, 2024
+Update license to Apache License 2.0 and add attribution and responsibility notice.To avoid unnecessary trouble, **service is no longer available in Mainland China**.
 ## Feb 29th, 2024
 We have successfully deployed trial music sources on servers in the Netherlands, Poland and the United States. Welcome to join our Telegram group to experience it!
 ## Feb 14th, 2024
@@ -18,10 +20,11 @@ For those users who already have relevant accounts, all you have to do is share 
 
 # Links
 These will be the only two communication platforms for the time being.
-- Discord (Discarded): [https://discord.com/invite/THEh33Gc](https://discord.com/invite/THEh33Gc)
 - Telegram (Mainly used): [https://t.me/+WQztNFXI2i8wMTRl](https://t.me/+WQztNFXI2i8wMTRl).
 
 # **DISCLAIMER**
-Due to the sensitive nature of the project, it may be stopped at any time, so please be sure not to promote it too much! For specific matters, please refer to the announcement in the Discord server.
+Due to the sensitive nature of the project, it may be stopped at any time, so please be sure not to promote it too much! For specific matters, please refer to the announcement in the Telegram Group.
 
-We do **NOT** welcome piracy. The consequences of all actions are borne by the user. If you are able, please pay to support other music platforms! If you use the services and support provided by this project, you are deemed to agree to the above ***terms and the GNU General Public License v2.0***.
+In principle, we do not allow changes to the released music resource files. If you really want to make changes, please note that this project is based on **Apache License 2.0**, which requires the original copyright notice and disclaimer to be retained. When distributing modified versions, you must clearly indicate which parts are modified and take corresponding responsibilities for the versions you distribute. **The secondary distributed version has nothing to do with this project!**
+
+We do **NOT** welcome piracy. The consequences of all actions are borne by the user. If you are able, please pay to support other music platforms! If you use the services and support provided by this project, you are deemed to agree to the above ***terms and Apache License 2.0***.
