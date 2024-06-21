@@ -4,8 +4,9 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # CHANGELOG
-## Jun 21th, 2024
+## Jun 21st, 2024
 Due to economic pressure, we have to move the lx-music-api-server from Seoul, South Korea to Poland. 
+
 At the same time, we have deployed cookies for NetEase Cloud Music, but we still need more cookies for other music platforms. If you are willing, you can send me a private message to provide them. 
 ## Jun 18th, 2024
 Great! After more than 3 months of maintenance suspension, we are reborn and usher in the new 1.0.1 version, but we only support IPV6 and the server is still located in Seoul, South Korea.
