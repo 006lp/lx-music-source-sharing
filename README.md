@@ -4,6 +4,14 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # CHANGELOG
+## Dec 16th, 2024
+Guys, how are you? This is a new music source that has been delayed for 6 months. **006lpのPoland Source v2.15.2 is here!!**
+Unfortunately, we only have ONE SVIP account of NetEase Cloud Music, so this source only allows you to parse NetEase Cloud Music.
+Especially for users in mainland China, we have enabled CDN to speed up your access speed and provide you with a better experience!
+
+**How to get the source?**
+Please provide your SVIP/VIP account of major Chinese music platforms for exchange. We **NO LONGER** welcome freeloaders.
+
 ## Jun 21st, 2024
 Due to economic pressure, we have to move the lx-music-api-server from Seoul, South Korea to Poland. 
 
