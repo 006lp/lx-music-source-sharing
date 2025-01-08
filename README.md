@@ -4,6 +4,9 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
 # CHANGELOG
+## Jan 8th, 2025
+We are thrilled to have received the QQ Music cookies provided by @Fun忧怨. Our music source version has now been updated to **v2.16beta**, supporting both <u>NetEase Cloud Music and QQ Music</u>. We welcome more talented individuals to join us!
+
 ## Dec 16th, 2024
 Guys, how are you? This is a new music source that has been delayed for 6 months. **006lpのPoland Source v2.15.2 is here!!**
 Unfortunately, we only have ONE SVIP account of NetEase Cloud Music, so this source only allows you to parse NetEase Cloud Music.
