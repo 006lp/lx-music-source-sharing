@@ -5,7 +5,7 @@ To put it simply, everyone provides VIP or SVIP accounts on different platforms,
 
 # CHANGELOG
 ## Jan 8th, 2025
-We are thrilled to have received the QQ Music cookies provided by @Fun忧怨. Our music source version has now been updated to **v2.16beta**, supporting both <u>NetEase Cloud Music and QQ Music</u>. We welcome more talented individuals to join us!
+We are thrilled to have received the QQ Music cookies provided by @Fun忧怨. Our music source version has now been updated to **v2.16beta**, supporting both *NetEase Cloud Music and QQ Music*. We welcome more talented individuals to join us!
 
 ## Dec 16th, 2024
 Guys, how are you? This is a new music source that has been delayed for 6 months. **006lpのPoland Source v2.15.2 is here!!**
