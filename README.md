@@ -3,7 +3,28 @@ Due to some well-known reasons, *LX Music* unfortunately had to drop support for
 
 To put it simply, everyone provides VIP or SVIP accounts on different platforms, and in exchange experiences the VIP or SVIP treatment of other platforms shared by others.
 
+# Contact us
+## This is the only communication platforms for the time being.
+- Telegram (Mainly used): [https://t.me/LX_Music_Source_Sharing_Group](https://t.me/LX_Music_Source_Sharing_Group)
+
 # CHANGELOG
+## Mar 1st, 2025
+**Notice: Urgent Call for Music Membership Sharing**  
+
+Dear users,  
+
+As of **March 1, 2025**, due to the lack of shared music accounts, our project currently relies solely on a single NetEase Cloud Music annual SVIP account and is now on the verge of shutting down.  
+
+Our initial goal was to maximize the use of individual membership accounts across different music platforms. However, with the tightening policies of various platforms, a single account is no longer sufficient to support all users.  
+
+To keep this project running, we sincerely call on everyone to share your music memberships and help sustain this project together! Your support is essential.  
+
+Fortunately, We have successfully deployed LX Music Source API servers in Poland and Japan, utilizing different CDNs to ensure stable access for all users.
+
+Now, **the only thing** needed to keep the project running smoothly is your support—simply share your VIP account with [@lpsuki](https://t.me/lpsuki). Together, we can maintain and improve this service!
+Thank you for your understanding and cooperation.  
+
+LX Music Source Sharing Group
 ## Jan 8th, 2025
 We are thrilled to have received the QQ Music cookies provided by @Fun忧怨. Our music source version has now been updated to **v2.16beta**, supporting both *NetEase Cloud Music and QQ Music*. We welcome more talented individuals to join us!
 
@@ -42,9 +63,6 @@ For those users who already have relevant accounts, all you have to do is share 
 [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)-[lyswhut](https://github.com/lyswhut)
 
 [lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)-[lyswhut](https://github.com/lyswhut)
-
-### This is the only communication platforms for the time being.
-- Telegram (Mainly used): [https://t.me/+WQztNFXI2i8wMTRl](https://t.me/+WQztNFXI2i8wMTRl).
 
 # **DISCLAIMER**
 Due to the sensitive nature of the project, it may be stopped at any time, so please be sure not to promote it too much! For specific matters, please refer to the announcement in the Telegram Group.
