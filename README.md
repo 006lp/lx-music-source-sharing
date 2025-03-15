@@ -8,6 +8,12 @@ To put it simply, everyone provides VIP or SVIP accounts on different platforms,
 - Telegram (Mainly used): [https://t.me/LX_Music_Source_Sharing_Group](https://t.me/LX_Music_Source_Sharing_Group)
 
 # CHANGELOG
+## Mar 15th, 2025
+Special thanks to **@笒鬼鬼** for providing the Kuwo Music & Migu Music Parsing API! Currently, our music source has been updated to support **wy & kw & mg**.
+
+- Poland Source cannot support kw & mg due to network issues.
+- Japan Source has been upgraded to version 3.6.4alpha.
+
 ## Mar 1st, 2025
 **Notice: Urgent Call for Music Membership Sharing**  
 
